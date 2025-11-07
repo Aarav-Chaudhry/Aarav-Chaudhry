@@ -14,7 +14,7 @@ Second-year Mechatronics Systems Engineering student at [Your University], passi
   - Tech: Raspberry Pi Pico, HC-SR04 sensor, SSD1306 OLED
 
 ### Software & Algorithms
-- 🎮 **[Pokemon Adventure Game](https://github.com/yourusername/pokemon-adventure-game)** (C++)
+- 🎮 **[Pokemon Adventure Game](https://github.com/Aarav-Chaudhry/pokemon-adventure-game)** (C++)
   - Text-based RPG with grid navigation, turn-based combat, and state management
   - 550+ lines demonstrating data structures and algorithm design
 
