@@ -16,7 +16,7 @@ Second-year Mechatronics Systems Engineering student at [Your University], passi
 ### Software & Algorithms
 - 🎮 **[Pokemon Adventure Game](https://github.com/Aarav-Chaudhry/pokemon-adventure-game)** (C++)
   - Text-based RPG with grid navigation, turn-based combat, and state management
-  - 550+ lines demonstrating data structures and algorithm design
+  - 769 lines demonstrating data structures and algorithm design
 
 ## 🛠️ Skills
 
