@@ -22,7 +22,7 @@ Second-year Mechatronics Systems Engineering student at [Your University], passi
 
 **Languages:** C++, Python, MicroPython  
 **Hardware:** Raspberry Pi Pico, Arduino, Circuit Design, Soldering, 3D Printing  
-**Tools:** Git, GitHub, Fusion 360, VS Code, Thonny
+**Tools:** Git, GitHub, Fusion 360, VS Code
 
 ## 📚 Currently Learning
 
