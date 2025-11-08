@@ -31,5 +31,5 @@ Embedded systems programming, robotics kinematics, and control systems
 ## 📫 Contact
 
 📧 aca393@sfu.ca
-💼 [LinkedIn](your-linkedin-url)
+💼 [LinkedIn](https://www.linkedin.com/in/aarav-chaudhry-82414b331)
 ```
