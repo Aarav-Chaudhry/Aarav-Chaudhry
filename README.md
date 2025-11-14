@@ -1,6 +1,6 @@
 # Hi, I'm Aarav Chaudhry 👋
 
-Second-year Mechatronics Systems Engineering student at [Your University], passionate about robotics, embedded systems, and control theory.
+Second-year Mechatronics Systems Engineering student at Simon Fraser University, passionate about robotics, embedded systems, and control theory.
 
 ## 🔧 Projects
 
